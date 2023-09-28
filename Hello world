@@ -1,4 +1,4 @@
-1 HELLO WORLD 
+//1 HELLO WORLD 
 
 #include <stdio.h>
 #include <string.h>
